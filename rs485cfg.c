@@ -7,7 +7,7 @@
 #include <errno.h>
 #include <unistd.h>
 
-#include "rs485_cfg.h"
+#include "rs485cfg.h"
 
 int main(int argc, char **argv)
 {
