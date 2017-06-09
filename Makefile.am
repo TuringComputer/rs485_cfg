@@ -4,4 +4,4 @@ CFLAGS = -Wall -pedantic
 include_HEADERS = rs485cfg.h
 
 bin_PROGRAMS = rs485cfg
-bbexample_SOURCES = rs485cfg.c
+rs485cfg_SOURCES = rs485cfg.c

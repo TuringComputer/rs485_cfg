@@ -3,7 +3,7 @@
 
 #AC_PREREQ(2.60)
 AC_INIT(rs485cfg, 1.0.0, mauricio@turingcomputer.com.br)
-AC_CONFIG_SRCDIR([rs485_cfg.c])
+AC_CONFIG_SRCDIR([rs485cfg.c])
 AC_CONFIG_HEADER([config.h])
 AM_INIT_AUTOMAKE(rs485cfg, main)
 
